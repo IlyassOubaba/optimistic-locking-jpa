@@ -42,6 +42,10 @@ Le projet suit une **architecture en couches** pour séparer les responsabilité
 
 
 
+https://github.com/user-attachments/assets/203f265c-36a3-4768-8c70-2a238a8a8bbb
+
+
+
 ## Conclusion
 
 Ce projet illustre l'utilisation du Optimistic Locking avec JPA et Hibernate pour garantir l’intégrité des données dans un environnement concurrent.
